@@ -1,0 +1,4 @@
+author:
+  name: Test
+  Location: London,ON,CA
+  greeting: hi,i'm ${author.name}

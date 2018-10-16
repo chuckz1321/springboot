@@ -1,0 +1,12 @@
+author:
+  name: Chuck
+  Location: London,ON,CA
+  greeting: hi,i'm ${author.name}
+
+#server:
+#  port: 8082
+
+#spring:
+#  datasource:
+#    url:
+#    username:
